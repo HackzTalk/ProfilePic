@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/anil/Desktop/ProfilePic/app/src/main/res/drawable-v24/btn.xml" value="0.2085" />
+        <entry key="..\:/Users/anil/Desktop/ProfilePic/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2085" />
+        <entry key="..\:/Users/anil/Desktop/ProfilePic/app/src/main/res/drawable/bg.xml" value="0.2085" />
+        <entry key="..\:/Users/anil/Desktop/ProfilePic/app/src/main/res/drawable/color.xml" value="0.2085" />
+        <entry key="..\:/Users/anil/Desktop/ProfilePic/app/src/main/res/drawable/ic_baseline_arrow_downward_24.xml" value="0.2085" />
+        <entry key="..\:/Users/anil/Desktop/ProfilePic/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.2085" />
+        <entry key="..\:/Users/anil/Desktop/ProfilePic/app/src/main/res/drawable/splash_logoforscreen.xml" value="0.2085" />
+        <entry key="..\:/Users/anil/Desktop/ProfilePic/app/src/main/res/drawable/style.xml" value="0.2085" />
+        <entry key="..\:/Users/anil/Desktop/ProfilePic/app/src/main/res/layout/activity_main.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/anil/Desktop/ProfilePic/app/src/main/res/layout/activity_main2.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/anil/Desktop/ProfilePic/app/src/main/res/layout/activity_splash.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/anil/Desktop/ProfilePic/app/src/main/res/layout/fragment_homefragment.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/anil/Desktop/ProfilePic/app/src/main/res/layout/fragment_savedfragment.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/anil/Desktop/ProfilePic/app/src/main/res/layout/temp_home.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/anil/Desktop/ProfilePic/app/src/main/res/layout/temp_saved.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/anil/Desktop/ProfilePic/app/src/main/res/menu-v26/menu.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/anil/Desktop/ProfilePic/app/src/main/res/menu/menu.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/anil/Desktop/ProfilePic/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1395" />
+        <entry key="..\:/Users/anil/Desktop/ProfilePic/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1395" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
